@@ -1,6 +1,5 @@
 from flask import Flask, request
 import requests
-import openai
 from pathlib import Path
 import os
 import json
